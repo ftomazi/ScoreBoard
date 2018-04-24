@@ -204,7 +204,6 @@
     <Compile Include="Controllers\GameResultController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LeaderBoardController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Data\GameRepository.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

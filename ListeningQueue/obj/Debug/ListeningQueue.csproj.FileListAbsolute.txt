@@ -1,0 +1,14 @@
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\ListeningQueue.exe.config
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\ListeningQueue.exe
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\ListeningQueue.pdb
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\DbRepository.dll
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\MSmQManager.dll
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\Dapper.dll
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\DbRepository.pdb
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\MSmQManager.pdb
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\bin\Debug\Dapper.xml
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\obj\Debug\ListeningQueue.csprojResolveAssemblyReference.cache
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\obj\Debug\ListeningQueue.csproj.CoreCompileInputs.cache
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\obj\Debug\ListeningQueue.csproj.CopyComplete
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\obj\Debug\ListeningQueue.exe
+C:\Users\fausto\source\repos\ScoreBoard\ListeningQueue\obj\Debug\ListeningQueue.pdb

@@ -9,10 +9,8 @@ namespace ListeningQueue
     {
         static void Main(string[] args)
         {
-
             Timer t = new Timer(TimerCallback, null, 0, 10000);
             Console.ReadLine();
-
         }
 
         private static void TimerCallback(Object o)
@@ -29,10 +27,8 @@ namespace ListeningQueue
             catch (Exception ex)
             {
                 Console.WriteLine(string.Format("Erro: {0}", ex.Message));
-                //throw;
+
             }
-
-
             GC.Collect();
         }
     }
