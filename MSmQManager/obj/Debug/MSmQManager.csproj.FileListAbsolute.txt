@@ -4,3 +4,9 @@ C:\Users\fausto\source\repos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.csproj
 C:\Users\fausto\source\repos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.csproj.CoreCompileInputs.cache
 C:\Users\fausto\source\repos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.dll
 C:\Users\fausto\source\repos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.pdb
+C:\Fausto\Projetos\ScoreBoard\MSmQManager\bin\Debug\MSmQManager.dll
+C:\Fausto\Projetos\ScoreBoard\MSmQManager\bin\Debug\MSmQManager.pdb
+C:\Fausto\Projetos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.csprojAssemblyReference.cache
+C:\Fausto\Projetos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.csproj.CoreCompileInputs.cache
+C:\Fausto\Projetos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.dll
+C:\Fausto\Projetos\ScoreBoard\MSmQManager\obj\Debug\MSmQManager.pdb

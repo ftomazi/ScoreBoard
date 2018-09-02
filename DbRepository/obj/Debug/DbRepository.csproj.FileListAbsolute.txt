@@ -7,3 +7,12 @@ C:\Users\fausto\source\repos\ScoreBoard\DbRepository\obj\Debug\DbRepository.cspr
 C:\Users\fausto\source\repos\ScoreBoard\DbRepository\obj\Debug\DbRepository.csproj.CopyComplete
 C:\Users\fausto\source\repos\ScoreBoard\DbRepository\obj\Debug\DbRepository.dll
 C:\Users\fausto\source\repos\ScoreBoard\DbRepository\obj\Debug\DbRepository.pdb
+C:\Fausto\Projetos\ScoreBoard\DbRepository\bin\Debug\DbRepository.dll
+C:\Fausto\Projetos\ScoreBoard\DbRepository\bin\Debug\DbRepository.pdb
+C:\Fausto\Projetos\ScoreBoard\DbRepository\bin\Debug\Dapper.dll
+C:\Fausto\Projetos\ScoreBoard\DbRepository\bin\Debug\Dapper.xml
+C:\Fausto\Projetos\ScoreBoard\DbRepository\obj\Debug\DbRepository.csprojAssemblyReference.cache
+C:\Fausto\Projetos\ScoreBoard\DbRepository\obj\Debug\DbRepository.csproj.CoreCompileInputs.cache
+C:\Fausto\Projetos\ScoreBoard\DbRepository\obj\Debug\DbRepository.csproj.CopyComplete
+C:\Fausto\Projetos\ScoreBoard\DbRepository\obj\Debug\DbRepository.dll
+C:\Fausto\Projetos\ScoreBoard\DbRepository\obj\Debug\DbRepository.pdb
